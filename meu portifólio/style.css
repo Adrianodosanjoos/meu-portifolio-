@@ -1,0 +1,120 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'PT Serif', serif;
+    background-color: #191919;
+    color: #f3eaea;
+}
+
+.menu-principal {
+    height: 10vh;
+    width: 30%;
+    
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left:100% ;
+    font-size: 50px;
+ }
+ 
+ .Portifólio  {
+    color: #ffffff;
+    font-size: 35px;
+    padding: left 10px;;
+ }
+
+.img-principal {
+
+
+border: none;
+
+}
+
+ 
+
+header {
+    margin-top: 43px;
+    margin-left: 42px;
+
+}
+
+.menu {
+    letter-spacing: 0.875;
+    line-height: 21px;
+    
+    margin-right: 32px;
+    font-weight: 400;
+    cursor: pointer;
+    font-size: 14px;
+    text-align: center;
+    border: none;
+    
+}
+
+.sub-menu {
+    font-size: 14px;
+    text-align: center;
+    
+    margin-right: 32px;
+    cursor: pointer;
+    font-weight: 400;
+    border: none;
+    line-height: 15px;
+}
+
+
+.container2 {
+
+
+    margin: 85px 0 0 52px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+    letter-spacing: 0.5px;
+    width: 493px;
+
+
+
+}
+
+img {
+    margin: 85px 0 0 52px;
+    border: none;
+     
+ 
+}
+
+.img-tex {
+    display: flex;
+    
+}
+
+
+.container1 {
+    margin-top: 80px;
+    margin-left: 42px;
+    margin-right: 32px;
+}
+
+
+p1 {
+
+    margin-left: 15px;
+    display: inline-block;
+
+
+
+
+}
+
+p2 {
+
+    margin-left: 15px;
+}
+
